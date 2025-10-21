@@ -4,6 +4,19 @@
 
 LN-Box Gehäuse für übliche Verteiler-Platinen.
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="doc/ln-box-1x1-rendering.png" />
+      </td>
+      <td>
+        <img src="doc/ln-box-2x2-rendering.png" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <dl>
   <dt>LN-Box 1x1</dt>
   <dd>Standard-Verteiler mit je einer seitlichen Öffnung
