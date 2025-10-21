@@ -11,6 +11,10 @@ LN-Box Gehäuse für übliche Verteiler-Platinen.
   <dd>Verteiler mit je zwei seitlichen Öffnungen (Abzweig/Anschluss)
 </dl>
 
+Empfohlene Schrauben:
+
+4x [M4x25 Torx selbstschneidend](https://www.amazon.de/dp/B0CYH2SN8N)
+
 ## Lizenz
 
 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
