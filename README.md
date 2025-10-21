@@ -13,6 +13,9 @@ LN-Box Gehäuse für übliche Verteiler-Platinen.
       <td>
         <img src="doc/ln-box-2x2-rendering.png" />
       </td>
+      <td>
+        <img src="doc/ln-box-back-rendering.png" />
+      </td>
     </tr>
   </tbody>
 </table>
